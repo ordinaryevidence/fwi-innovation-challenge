@@ -1,0 +1,9 @@
+autopep8
+geemap
+jupyter
+localtileserver
+matplotlib
+numpy
+pandas
+rasterio
+xarray
